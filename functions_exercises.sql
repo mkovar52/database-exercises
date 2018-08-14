@@ -1,5 +1,5 @@
 
-# ===================== Functions exercises ===================== \\
+-- # ===================== Functions exercises ===================== \\
 -- # ex 1
 select concat(first_name,last_name)
 from employees
