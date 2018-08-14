@@ -3,7 +3,7 @@ USE codeup_test_db;
 
 -- SELECT 'The name of all albums by Pink Floyd' AS 'Info';
 
--- SELECT * FROM albums
+-- SELECT name FROM albums
 -- WHERE artist = 'Pink Floyd';
 
 -- SELECT release_date FROM albums
@@ -12,11 +12,11 @@ USE codeup_test_db;
 -- SELECT genre FROM albums
 -- WHERE name = 'Nevermind';
 
--- SELECT * FROM albums
+-- SELECT name FROM albums
 -- WHERE release_dates
 -- BETWEEN 1990 AND 1999;
 
--- SELECT * FROM albums
+-- SELECT name FROM albums
 -- WHERE sales < 20.0;
 
 
